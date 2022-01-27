@@ -11,8 +11,3 @@ Stock Index (Index Future China) fast trend follow day trading strategy. In the 
 
 # Back-Test-Curve
 
-![1](Images/strategy1.png)
-
-![2](Images/strategy2.png)
-
-![3](Images/strategy3.png)
