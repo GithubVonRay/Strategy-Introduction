@@ -10,9 +10,14 @@ Strategy three:
 Stock Index (Index Future China) fast trend follow day trading strategy. In the back test from 2017 to 2020, with 1,000,000 initial margin (one position a time), total return 1,050,000, with long and short profit symmetry, profit-loss ratio 2.38, Kalmar (profit/max drawdown)30.33. 
 
 # Back-Test-Curve
+Strategy one:  
 
 ![1](Images/strategy1.png)
 
+Strategy two:  
+
 ![2](Images/strategy2.png)
+
+Strategy three:  
 
 ![3](Images/strategy3.png)
